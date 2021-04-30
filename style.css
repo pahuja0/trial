@@ -1,0 +1,39 @@
+h2
+{
+    color: blueviolet
+}
+
+ul,li
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif; 
+
+}
+
+
+.div
+{
+    font-size: 20px;
+    background-color: khaki;
+    /* border: lemonchiffon; */
+    border: 5px solid brown;
+    margin-top: 10px;
+    
+}
+.h
+{
+    color: blue;
+}
+
+.li
+{
+    background-color: mediumaquamarine;
+    padding:10px;
+}
+
+#di
+{
+    background-image: url(./pexels-photo-1563356.jpeg);
+    color:#fff;
+    
+}
